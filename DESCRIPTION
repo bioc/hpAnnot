@@ -1,0 +1,37 @@
+Package: hpAnnot
+Type: Package
+Title: Anotation package for Hipathia package
+Version: 1.0.1
+Authors@R: c(person("Marta R.", "Hidalgo", email = "marta.hidalgo@outlook.es", role = c("aut", "cre")),
+	     person("José", "Carbonell-Caballero", role = c("ctb")),
+	     person("Francisco", "Salavert", role = c("ctb")),
+	     person("Alicia", "Amadoz", role = c("ctb")),
+	     person("Çankut", "Cubuk", role = c("ctb")),
+	     person("Joaquin", "Dopazo", role = c("ctb")))
+Description: Package containing example and annotation data for Hipathia 
+    package. Hipathia is a method for the computation of signal transduction along
+  signaling pathways from transcriptomic data. The method is based on an 
+  iterative algorithm which
+  is able to compute the signal intensity passing through the nodes of a
+  network by taking into account the level of expression of each gene and
+  the intensity of the signal arriving to it. It also provides a new approach 
+  to functional analysis allowing to compute the signal arriving to the 
+  functions annotated to each pathway.
+    Hipathia depends on this package to be functional. 
+Depends: R (>= 3.5)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: BiocStyle, knitr, rmarkdown
+VignetteBuilder: knitr
+biocViews: FunctionalAnnotation, PackageType, CustomDBSchema
+NeedsCompilation: no
+Packaged: 2019-04-17 13:52:45 UTC; mhidalgo
+Author: Marta R. Hidalgo [aut, cre],
+  José Carbonell-Caballero [ctb],
+  Francisco Salavert [ctb],
+  Alicia Amadoz [ctb],
+  Çankut Cubuk [ctb],
+  Joaquin Dopazo [ctb]
+Maintainer: Marta R. Hidalgo <marta.hidalgo@outlook.es>

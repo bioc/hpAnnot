@@ -1,0 +1,26 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20180420095104+01'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20180420095104+01'00'
+InfoBegin
+InfoKey: Title
+InfoValue: TBP0_C458-20180420095104
+InfoBegin
+InfoKey: Creator
+InfoValue: TBP0_C458
+InfoBegin
+InfoKey: Producer
+InfoValue: KONICA MINOLTA bizhub C458
+NumberOfPages: 2
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 841
+PageMediaDimensions: 595 841
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 841
+PageMediaDimensions: 595 841

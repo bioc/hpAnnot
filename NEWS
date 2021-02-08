@@ -1,0 +1,11 @@
+Version 0.99.6 (2018-02-20)
+  + Adding NEWS file
+  + Removing man/ folder
+  + Removing RDatas
+  + Fixing some bugs in the vignette
+
+Version 0.99.8 (2018-04-08)
+  + Correcting Bioconductor style
+
+Version 1.0.1 (2019-04-11)
+  + Adding version2 (v2) files 
