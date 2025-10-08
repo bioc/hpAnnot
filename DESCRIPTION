@@ -1,7 +1,7 @@
 Package: hpAnnot
 Type: Package
 Title: Anotation package for Hipathia package
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: c(person("Marta R.", "Hidalgo", email = "marta.hidalgo@outlook.es", role = c("aut", "cre")),
 	     person("José", "Carbonell-Caballero", role = c("ctb")),
 	     person("Francisco", "Salavert", role = c("ctb")),
@@ -18,7 +18,7 @@ Description: Package containing example and annotation data for Hipathia
   to functional analysis allowing to compute the signal arriving to the 
   functions annotated to each pathway.
     Hipathia depends on this package to be functional. 
-Depends: R (>= 3.5)
+Depends: R (>= 3.5), AnnotationHub
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
