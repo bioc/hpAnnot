@@ -5,7 +5,7 @@
 ## Written by Marta R. Hidalgo
 ##
 
-version <- "v2"
+version <- "v3"
 setwd("~/appl/hpAnnot/inst/extdata/")
 
 ## FOR INDIVIDUAL FILES
