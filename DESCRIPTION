@@ -25,7 +25,7 @@ LazyData: true
 RoxygenNote: 6.1.1
 Suggests: BiocStyle, knitr, rmarkdown
 VignetteBuilder: knitr
-biocViews: FunctionalAnnotation, PackageType, CustomDBSchema
+biocViews: FunctionalAnnotation, PackageType, CustomDBSchema, AnnotationHub
 NeedsCompilation: no
 Packaged: 2019-04-17 13:52:45 UTC; mhidalgo
 Author: Marta R. Hidalgo [aut, cre],
