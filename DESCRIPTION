@@ -1,7 +1,7 @@
 Package: hpAnnot
 Type: Package
 Title: Anotation package for Hipathia package
-Version: 1.1.2
+Version: 1.1.3
 Authors@R: c(person("Marta R.", "Hidalgo", email = "marta.hidalgo@outlook.es", role = c("aut", "cre")),
 	     person("José", "Carbonell-Caballero", role = c("ctb")),
 	     person("Francisco", "Salavert", role = c("ctb")),
@@ -35,3 +35,4 @@ Author: Marta R. Hidalgo [aut, cre],
   Çankut Cubuk [ctb],
   Joaquin Dopazo [ctb]
 Maintainer: Marta R. Hidalgo <marta.hidalgo@outlook.es>
+PackageStatus: Deprecated
